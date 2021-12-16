@@ -6,3 +6,7 @@
 
 
 🤗Reach out to me: [LinkedIn](https://www.linkedin.com/in/priyalyadav/)
+
+📈###GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Priyal-Y&&show_icons=true&title_color=1AA7EC&icon_color=006ee6&text_color=003166&bg_color=d8f9ff">
