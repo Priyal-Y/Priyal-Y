@@ -5,4 +5,4 @@
 - 😄 Pronouns: She/Her
 
 
-🤗Reach out to me at: [LinkedIn - Priyal Yadav](https://www.linkedin.com/in/priyalyadav/)
+🤗Reach out to me: [LinkedIn](https://www.linkedin.com/in/priyalyadav/)
