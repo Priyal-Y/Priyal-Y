@@ -13,9 +13,9 @@
 <br />
 <br />
 
-## GitHub Stats
+<!-- ## GitHub Stats -->
 <!-- status bar-->
-<img src="https://github-readme-stats.vercel.app/api?username=Priyal-Y&&show_icons=true&title_color=1AA7EC&icon_color=006ee6&text_color=003166&bg_color=d8f9ff">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=Priyal-Y&&show_icons=true&title_color=1AA7EC&icon_color=006ee6&text_color=003166&bg_color=d8f9ff">-->
 
 
 [website]: https://priyalmamta87.wixsite.com/priyal-yadav
